@@ -1,1 +1,0 @@
-Simple bank demo project
